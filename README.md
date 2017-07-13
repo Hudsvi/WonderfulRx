@@ -1,0 +1,1 @@
+基于Rxjava 2.x的RxBus,目前仅封装了rxbus,后面我将陆续结合Retrofit等框架写一个rx+retrofit的网络请求，以及其它设计Rx的应用，如有细节错误，感谢读者指出。
